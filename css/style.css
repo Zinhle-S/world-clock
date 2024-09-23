@@ -26,7 +26,7 @@ select {
 .container {
     max-width: 600px;
     margin: 60px auto;
-    background-image: url("https: //images.pexels.com/photos/531880/pexels-photo-531880.jpeg?auto=compress&cs=tinysrgb&w=600");
+    background-color: #8F555B;
     padding: 30px;
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
     border-radius: 10px;
