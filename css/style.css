@@ -26,7 +26,7 @@ select {
 .container {
     max-width: 600px;
     margin: 60px auto;
-    background-image: url("https: //media.istockphoto.com/id/157639696/photo/purple-space-stars.webp?b=1&s=612x612&w=0&k=20&c=qISUct-nIGiiONJlfAevgzRWLDMb7CCLIkcyOD4NxZw=");
+    background-image: url("https: //images.pexels.com/photos/531880/pexels-photo-531880.jpeg?auto=compress&cs=tinysrgb&w=600");
     padding: 30px;
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
     border-radius: 10px;
@@ -62,6 +62,6 @@ select {
 footer {
     text-align: center;
     font-size: 18px;
-    color: rgba(0, 0, 0, 0.8);
+    color: white;
 }
 
